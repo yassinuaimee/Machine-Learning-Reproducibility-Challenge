@@ -26,11 +26,18 @@ This repository contains the implementation and analysis of our **Reproducibilit
 - **📜 `Graph_generator1_Alnuaimee_Cammarata_Sahebi.ipynb` & `Graph_generator2_Alnuaimee_Cammarata_Sahebi.ipynb`**
   - Scripts for generating figures 1 and 2 of the report
 
-- **📄 `Paper3_Alnuaimee_Cammarata_Sahebi.pdf`**
-  - A related paper discussing alternative perspectives.
+- **📜 `Paper3_Alnuaimee_Cammarata_Sahebi.ipynb`**  
+  - Implements **four neural network architectures**:  
+    - **S_CONV** (Shallow CNN)  
+    - **S_LOCAL** (Locally connected network using grouped convolutions)  
+    - **S_FC** (Fully connected network)  
+    - **FC_3** (Three-layer fully connected network)  
+  - Defines **training hyperparameters** (batch size, learning rate, etc.).
+  - Loads and processes the **CIFAR-10 dataset**.
+  - Provides a baseline evaluation of network performance.
 
 - **📄 `Projects_EE411__23_24.pdf`**
-  - Course document related to the EE-411 project.
+  - list of projects proposed by EE-411 project.
 
 - **📜 `.gitattributes`**
   - Git configuration file.
@@ -38,9 +45,3 @@ This repository contains the implementation and analysis of our **Reproducibilit
 - **📄 `README.md`**
   - You are here! Documentation about the project.
 
-## 🚀 How to Use the Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yassinuaimee/Towards-Learning-Convolutions.git
-   cd Towards-Learning-Convolutions
