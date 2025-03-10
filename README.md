@@ -23,8 +23,8 @@ This repository contains the implementation and analysis of our **Reproducibilit
 - **📄 `paper.pdf`**
   - An updated version of the research paper containing our findings.
 
-- **📜 `Graph_generator1_Alnuaimee_Cammarata.py` & `Graph_generator2_Alnuaimee_Cammarata.py`**
-  - Scripts for generating performance and weight distribution visualizations.
+- **📜 `Graph_generator1_Alnuaimee_Cammarata_Sahebi.ipynb` & `Graph_generator2_Alnuaimee_Cammarata_Sahebi.ipynb`**
+  - Scripts for generating figures 1 and 2 of the report
 
 - **📄 `Paper3_Alnuaimee_Cammarata_Sahebi.pdf`**
   - A related paper discussing alternative perspectives.
